@@ -1,4 +1,4 @@
 beryl
 =====
 
-Beryl "mvc" framework for PHP 5.5
+PHP 5.6 web framework coming soon!
